@@ -1,0 +1,1 @@
+# template-node-mongo-ts
